@@ -71,7 +71,7 @@
 								}
 							}
 						},
-						"url": "{{url}}/api/login"
+						"url": "https://reqres.in/api/login"
 					},
 					"response": []
 				}
